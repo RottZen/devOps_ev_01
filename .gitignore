@@ -1,0 +1,36 @@
+# Compilación y artefactos de Java/Maven
+target/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# Configuraciones de IDEs (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.vscode/
+.settings/
+.project
+.classpath
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Bases de datos embebidas locales
+*.db
+*.h2.db
+
+# Pautas 
+instrucciones\ y\ rubrica/
