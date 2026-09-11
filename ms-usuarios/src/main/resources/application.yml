@@ -159,3 +159,8 @@ management:
     web:
       exposure:
         include: health,info   # Mínimo necesario en prod
+# Modulo de notificaciones DevOps
+     app:
+       notifications:
+         enabled: true
+         channel: email
